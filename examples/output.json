@@ -1,0 +1,19 @@
+{
+    "fullName": "Patrick Collison",
+    "headline": "Stripe CEO",
+    "location": "",
+    "profileUrl": "https://www.linkedin.com/in/patrickcollison/",
+    "isDecisionMaker": true,
+    "seniorityBand": "cxo",
+    "department": "executive",
+    "matchedTitle": "CEO",
+    "matchedCompany": "Stripe",
+    "verifiedEmployer": "Stripe",
+    "profileEmployers": ["Stripe", "Arc Institute"],
+    "charged": true,
+    "reason": "title in own headline, current employer confirmed on profile",
+    "searchedTitles": ["CEO", "CFO"],
+    "searchedCompany": "Stripe",
+    "searchedLocation": null,
+    "scrapedAt": "2026-09-23T22:44:25.660Z"
+}
